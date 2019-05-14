@@ -1,0 +1,8 @@
+body {
+  background-image: linear-gradient(white, grey, blueviolet, blue);
+}
+
+p,
+h2 {
+  color: lightgrey;
+}

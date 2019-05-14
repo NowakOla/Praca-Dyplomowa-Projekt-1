@@ -1,0 +1,64 @@
+nav {
+  font-size: 24px;
+}
+.header {
+  color: white;
+}
+
+span {
+  color: white;
+}
+a:hover {
+  font-size: 28px;
+  margin-right: 20px;
+  margin-left: 20px;
+  transition: 0.3s;
+}
+span.home:hover {
+  color: green;
+}
+span.priceList:hover {
+  color: plum;
+}
+span.contact:hover {
+  color: wheat;
+}
+
+.pasek {
+  background-color: rgb(184, 184, 219);
+  height: 5px;
+}
+i.contact {
+  color: wheat;
+}
+i.priceList {
+  color: plum;
+}
+i.plant {
+  color: green;
+}
+i {
+  color: white;
+}
+
+footer i.facebook:hover {
+  color: blue;
+}
+footer i.twitter:hover {
+  color: rgb(68, 68, 245);
+}
+footer i.google:hover {
+  color: greenyellow;
+}
+footer i.link:hover {
+  color: white;
+}
+footer i.instagram:hover {
+  color: pink;
+}
+footer i.pinterest:hover {
+  color: rgb(170, 41, 41);
+}
+div.card {
+  box-shadow: 2px 2px;
+}
